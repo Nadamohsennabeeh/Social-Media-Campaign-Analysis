@@ -22,6 +22,3 @@ Data Modeling: Established a star-schema inspired model to ensure fast and accur
 
 Calculations (DAX): Created custom measures to calculate key metrics such as: Total Spend vs. Total Revenue.
 
-Cost Per Engagement.
-
-Total Spend vs. Total Revenue.
